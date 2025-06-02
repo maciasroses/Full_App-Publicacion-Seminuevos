@@ -19,6 +19,7 @@
 
         npm run dev
 
+- Crear una carpeta llamada **screenshots** dentro de la carpeta **api**.
 - Abrir otra terminal en la raíz del proyecto.
 - Colocarse en la carpeta **app** con el siguiente comando:
 
